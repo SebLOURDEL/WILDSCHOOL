@@ -28,7 +28,7 @@ main {
 }
 
 header {
-  background: #f4f4f4;
+  background: red;
   text-align: center;
   padding: 2em;
 }
