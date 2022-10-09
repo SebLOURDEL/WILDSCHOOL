@@ -5,6 +5,23 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+
+}
+
+.element{display: inline-block;}
+
+.items{
+  flex:25%;
+  margin:1em;
+  text-align: center;
+}
+
 main {
   max-width: 960px;
   margin: 0 auto;
