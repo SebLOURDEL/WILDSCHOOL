@@ -28,10 +28,14 @@ main {
 }
 
 header {
-  background: #f4f4f4;
+  background: blue;
   text-align: center;
   padding: 2em;
 }
+
+.form-flex{
+  display: inline-block;
+  width: 100%;}
 
 header img {
   max-width: 96px;

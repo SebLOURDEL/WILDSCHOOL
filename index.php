@@ -47,6 +47,7 @@
     ?>
     </div>
     <h2>Ajouter un(e) Argonaute</h2>
+    <div class="form-flex">
     <form action="" method="POST">
       <label>Nom</label>
       <input type="text" name="nom">
@@ -56,6 +57,7 @@
       <input type="number" name="age">
       <input type="submit" value="Ajouter" name="button">
     </form>
+    </div>
 
     <h2>Membres de l'équipage</h2>
 <div class="container">
